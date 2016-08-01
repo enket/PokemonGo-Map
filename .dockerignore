@@ -2,7 +2,6 @@
 .github
 .gitignore
 credentials.example.json
-node_modules
 Easy\ Setup
 pogom.db
 core
