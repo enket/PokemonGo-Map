@@ -29,7 +29,7 @@
     "npm": "3.10.6"
   }
   "scripts": {
-    "postinstall": "grunt build",
+    "postinstall": "echo postinstall time; grunt build",
     "build": "grunt build",
     "lint": "grunt lint"
   },
