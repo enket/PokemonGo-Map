@@ -25,6 +25,9 @@
     "grunt-usemin": "latest",
     "jshint-stylish": "latest"
   },
+  "engines": {
+    "npm": "3.10.6"
+  }
   "scripts": {
     "postinstall": "grunt build",
     "build": "grunt build",
