@@ -27,8 +27,8 @@
   },
   "scripts": {
     "postinstall": "grunt build",
-    "build": "./node_modules/.bin/grunt build",
-    "lint": "./node_modules/.bin/grunt lint"
+    "build": "grunt build",
+    "lint": "grunt lint"
   },
   "repository": {
     "type": "git",
