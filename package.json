@@ -26,7 +26,7 @@
     "jshint-stylish": "latest"
   },
   "scripts": {
-    "postinstall": "./node_modules/.bin/grunt build",
+    "postinstall": "grunt build",
     "build": "./node_modules/.bin/grunt build",
     "lint": "./node_modules/.bin/grunt lint"
   },
